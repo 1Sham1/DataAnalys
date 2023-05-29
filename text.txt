@@ -1,0 +1,8 @@
+#r = rq.get('https://classif.gov.spb.ru/irsi/7830002078-socialno-znachimye-proekty-religioznyh-organizacij-v-sankt-peterburge/structure_version/232/').text
+#print(r)
+#html = BS(r, 'html.parser')
+#title = html.find('h1', {"class": "detail-page__title"})
+#href = html.find('div', {"class": "n3__dropdown"})
+#if href != None:
+#    print(href.get_text())
+#print(title.get_text())

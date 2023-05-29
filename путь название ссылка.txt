@@ -1,0 +1,4 @@
+1) info_health_service.csv "Информация о лечебно-профилактических учреждениях Санкт-Петербурга (Версия №10 от 15.03.2021)" https://classif.gov.spb.ru/irsi/7808043833-info_health_service/structure_version/327/?page=1&per_page=10
+2) licenses_pharmaceutics.csv "Реестр лицензий на осуществление фармацевтической деятельности, предоставленных Комитетом по здравоохранению (Версия №55 от 15.03.2021)" https://classif.gov.spb.ru/irsi/7808043833-licenses_pharmaceutics/structure_version/535/
+3) reestr-specialistov-v-oblasti-veterinarii-zanimayushihsya-predprinimatelskoj-deyatelnostyu-na-territorii-sankt-peterburga.csv "Реестр специалистов в области ветеринарии, занимающихся предпринимательской деятельностью на территории Санкт-Петербурга (Версия №12 от 17.03.2021)" https://classif.gov.spb.ru/irsi/7815026412-reestr-specialistov-v-oblasti-veterinarii-zanimayushihsya-predprinimatelskoj-deyatelnostyu-na-territorii-sankt-peterburga/structure_version/236/
+4) 
